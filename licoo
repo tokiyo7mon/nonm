@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message from Cristiano to Lica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #1d72b8;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+        .message-box {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        .footer {
+            font-size: 14px;
+            color: #888;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>A Special Message from Cristiano</h1>
+    <div class="message-box">
+        <p>"Lica, every moment we share makes my world brighter. You’re my inspiration, and I’ll love you forever. ❤️ Cristiano"</p>
+    </div>
+
+    <div class="footer">
+        <p>Created with love by ChatGPT</p>
+    </div>
+
+</body>
+</html>
